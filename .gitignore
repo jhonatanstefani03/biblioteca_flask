@@ -1,0 +1,45 @@
+# Ambiente virtual
+venv/
+.venv/
+env/
+
+# Cache do Python
+__pycache__
+*.py[cod]
+*$py.class
+
+
+
+
+
+# Variáveis de ambiente
+.env
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Pytest
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+
+
+# Migrations compiladas
+migrations/__pycache__/
+
+# Arquivos temporários
+*.tmp
+*.swp
